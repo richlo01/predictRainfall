@@ -5,4 +5,6 @@ explains in detail our thought process and our reasons for what we did. Our grou
 for the Random Forest Classifer. 
 <br/>The results of all the classifiers are as follows:
 <p align="center">
-  <img 
+  <img src="https://user-images.githubusercontent.com/47437080/121444460-6981b780-c944-11eb-8af0-31427fd699f5.png" width="500">
+</p>
+
